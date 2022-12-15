@@ -1,4 +1,9 @@
 /*
+ * Copyright (C) 2020+     Project "Sol" <https://gitlab.com/opfesoft/sol>, released under the GNU GPLv2 license: https://gitlab.com/opfesoft/mod-weapon-visual/-/blob/master/LICENSE.md; you may redistribute it and/or modify it under version 2 of the License, or (at your option), any later version.
+ * Copyright (C) 2019-2020 AzerothCore <www.azerothcore.org>, released under GNU GPL v2 license, you may redistribute it and/or modify it under version 2 of the License, or (at your option), any later version.
+ */
+
+/*
 ** Made by Rochet2(Eluna)
 ** Rewritten by Poszer & Talamortis https://github.com/poszer/ & https://github.com/talamortis/
 ** AzerothCore 2019 http://www.azerothcore.org/
