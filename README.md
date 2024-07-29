@@ -1,4 +1,4 @@
-# mod-weapon-visual
+# mod-weapon-visual<br>(Discontinued as of 2024-07-29)
 
 
 ## Description
